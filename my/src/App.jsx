@@ -25,7 +25,14 @@ function App() {
     <div className="app">
 
 
-      <div className ="main">main</div>
+      <div className ="main">main
+        <div className="top">
+          <div className="timer">30</div>
+        </div>
+        <div className="bottom">question and answers</div>
+
+
+      </div>
       <div className ="pyramid">
         <div className="moneyList">
         <ul>
